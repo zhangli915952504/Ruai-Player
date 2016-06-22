@@ -1,4 +1,4 @@
-# Hide音乐播放器   
+# Ruai音乐播放器   
 感谢：<a href="https://github.com/ShogoMizumoto/ZDepthShadow" target="_blank">ZDepthShadow</a>  
 播放器的素材是从『乐乐音乐』里面提取的。  
 LOGO是从Google上搜索的，如果造成不必要的麻烦请告知。
